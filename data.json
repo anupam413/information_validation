@@ -1,0 +1,42 @@
+{
+    "outgoing_trait": [
+        {
+            "outgoing": true,
+            "verified": false
+        }
+    ],
+    "occupation": [
+        {
+            "unemployed": true,
+            "verified": false
+        }
+    ],
+    "frequent_visits": [
+        {
+            "nature": true,
+            "verified": false
+        }
+    ],
+    "regular_activity": [
+        {
+            "gym": true,
+            "verified": false
+        }
+    ],
+    "likes": [
+        {
+            "bikes": true,
+            "verified": false
+        },
+        {
+            "cars": true,
+            "verified": false
+        }
+    ],
+    "app_usages": [
+        {
+            "music": true,
+            "verified": false
+        }
+    ]
+}
