@@ -51,6 +51,7 @@ def update_data(category, item_name, status):
     """
     Update the data based on the response.
     """
+    print("af",category, item_name, status, user_data)
     for item in user_data[category]:
         if item_name in item:
             item[item_name] = status
